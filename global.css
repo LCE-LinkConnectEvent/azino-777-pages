@@ -1,0 +1,135 @@
+:root {
+  --ff-main: 'Roboto';
+
+  --border-dark-grey: 2px solid #413C3C;
+  --border-white-opacity: 2px solid rgba(255, 255, 255, 0.3);
+  --border-radius-common: 15px;
+  --border-radius-small: 10px;
+
+  --color-white: #FFFFFF;
+  --color-black: #0F0F0F;
+  --color-gray: #7E7E7E;
+  --color-yellow: #FFBB29;
+  --color-green: #419F4D;
+  --color-dark-gray: #413C3C;
+  --color-white-yellow: #F9F1DF;
+  --color-black-yellow: #3E3219;
+
+  --gradient-yellow: linear-gradient(45.87deg, #FFDB6F 6.6%, #FFBB29 102.94%);
+  --gradient-blue: linear-gradient(25.87deg, #2B73FF 17.59%, #39D0FF 111.93%);
+  --gradient-green: linear-gradient(45.87deg, #89C763 6.6%, #0E9347 102.94%);
+  --gradient-violet: linear-gradient(45.87deg, #6F7DFF 6.6%, #8729FF 102.94%);
+  --gradient-black: linear-gradient(269.8deg, #302D2D 1.64%, rgba(70, 66, 66, 0.1) 101.25%);
+  --gradient-dark-gray: linear-gradient(269.8deg, #302D2D 1.64%, rgba(53, 50, 50, 0.33) 101.25%);
+
+  --border-yellow: linear-gradient(231.26deg, #FFE3A6 9.72%, rgba(255, 203, 91, 0) 67.39%);
+  --border-blue: linear-gradient(231.26deg, #96D7FF 9.72%, rgba(255, 255, 255, 0) 67.39%);
+  --border-green: linear-gradient(231.26deg, #89C763 9.72%, rgba(137, 199, 99, 0) 67.39%);
+  --border-violet: linear-gradient(231.26deg, #B3A8FF 9.72%, rgba(128, 112, 232, 0) 67.39%);
+  --border-black: linear-gradient(231.26deg, #5A5656 9.72%, rgba(90, 86, 86, 0) 67.39%);
+
+  --rank-gradient-blue: linear-gradient(45.87deg, #00d4ff 6.6%, #005bcb 102.94%);
+  --rank-gradient-yellow: linear-gradient(45.87deg, #FFDB6F 6.6%, #FFBB29 102.94%);
+  --rank-gradient-green: linear-gradient(45.87deg, #89C763 6.6%, #0E9347 102.94%);
+  --rank-gradient-red: linear-gradient(45.87deg, #f50500 6.6%, #a40300 102.94%);
+  --rank-gradient-silver: linear-gradient(45.87deg, #ececec 6.6%, #b5b2b2 102.94%);
+
+  --rank-gradient-border-blue: linear-gradient(231.26deg, #96D7FF 9.72%, rgba(255, 255, 255, 0) 67.39%);
+  --rank-gradient-border-yellow: linear-gradient(231.26deg, #FFE3A6 9.72%, rgba(255, 203, 91, 0) 67.39%);
+  --rank-gradient-border-green: linear-gradient(231.26deg, #89C763 9.72%, rgba(137, 199, 99, 0) 67.39%);
+  --rank-gradient-border-red: linear-gradient(231.26deg, #db6a6a 9.72%, rgba(137, 199, 99, 0) 67.39%);
+  --rank-gradient-border-silver: linear-gradient(231.26deg, #B3A8FF 9.72%, rgba(128, 112, 232, 0) 67.39%);
+}
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body {
+  font-family: var(--ff-main);
+  color: var(--color-gray);
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 100;
+  src: url("fonts/Roboto-Thin.ttf");
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 300;
+  src: url("fonts/Roboto-Light.ttf");
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 400;
+  src: url("fonts/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 500;
+  src: url("fonts/Roboto-Medium.ttf");
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 700;
+  src: url("fonts/Roboto-Bold.ttf");
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 900;
+  src: url("fonts/Roboto-Black.ttf");
+}
