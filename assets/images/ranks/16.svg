@@ -1,0 +1,48 @@
+<svg version="1.1" id="premium-diamond" x="0" y="0" viewBox="0 0 512 512" class="" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  <style type="text/css">
+	#premium-diamond .st0{fill:#7d52ff;}
+	#premium-diamond .st1{fill:#875fff;}
+	#premium-diamond .st2{fill:#6c45e4;}
+	#premium-diamond .st3{fill:#2D4961;}
+	#premium-diamond .st4{fill:#44637F;}
+	#premium-diamond .st5{fill:#123247;}
+	#premium-diamond .st6{fill:#e3e3e3;}
+	#premium-diamond .st7{fill:#e3e3e3;}
+	#premium-diamond .st8{fill:#dbdbdb;}
+	#premium-diamond .st81{fill:#fff;}
+	#premium-diamond .st82{fill:#fff;}
+	#premium-diamond .st9{fill:#e7e7e7;}
+	#premium-diamond .st10{fill:#ffffff;}
+</style>
+  <g transform="matrix(1, 0, 0, 1, 78, 0)">
+    <path class="st0" d="M39.3,388c-4.6-3-7.3-8-7.3-13.4V32h288v342.6c0,5.4-2.7,10.5-7.3,13.4L176,476.8L39.3,388z"></path>
+    <path class="st1" d="M32,32v232h12c6.6,0,12-5.4,12-12l0,0v-81.2c0.2-6.1,5.3-11,11.4-10.8c0.1,0,0.3,0,0.4,0l0,0   c6.6,0.1,12.1-5.2,12.2-11.8c0-0.1,0-0.1,0-0.2V88c0-17.7,14.3-32,32-32h152c13.3,0,24-10.7,24-24H32L32,32z"></path>
+    <path class="st2" d="M308,104c-6.6,0-12,5.4-12,12v73.2c0,6-4.8,10.8-10.8,10.8h-0.1H284c-6.6,0-12,5.3-12,11.8v0.1v73.3   c0,6-4.8,10.8-10.8,10.8h-0.1h-1c-6.6,0-12,5.3-12.1,11.9v0.1v36c-0.1,35.6-18.1,68.7-48,88l0,0c-15,9.9-24,26.7-24,44.6L312.7,388   c4.2-2.7,6.9-7.1,7.3-12.1l0,0v-272h-12V104z"></path>
+    <path class="st3" d="M320,0H32C14.3,0,0,14.3,0,32v342.6c0.1,16.2,8.3,31.2,21.8,40l145.4,94.8c5.3,3.4,12.1,3.4,17.4,0L330,414.8   c13.6-8.8,21.8-23.8,21.8-40V32C352,14.3,337.7,0,320,0z M320,68.5c-6.9-6.2-15.4-10.4-24.6-11.8c-1.5-9.2-5.6-17.8-11.9-24.6H320   V68.5z M68.5,32c-6.3,6.9-10.4,15.4-11.9,24.6c-9.2,1.5-17.7,5.7-24.6,11.9V32H68.5z M176,476.8l-26.5-17.2   c11-4.6,20.3-12.6,26.5-22.9c6.2,10.3,15.4,18.3,26.5,22.9L176,476.8z M320,374.6c0,5.4-2.7,10.5-7.3,13.4L221,448   c-20.9-1.6-37-19-37-40c0-4.4-3.6-8-8-8s-8,3.6-8,8c0.1,21-16.1,38.4-37,40l-91.8-59.9c-4.6-3-7.3-8-7.3-13.4V104   c0-17.7,14.3-32,32-32c4.4,0,8-3.6,8-8c0-17.7,14.3-32,32-32h144c17.7,0,32,14.3,32,32c0,4.4,3.6,8,8,8c17.7,0,32,14.3,32,32   L320,374.6L320,374.6z"></path>
+    <path class="st4" d="M0,32v272l0,0c8.8,0,16-7.2,16-16V32c0-8.8,7.2-16,16-16h272c8.8,0,16-7.2,16-16H32C14.3,0,0,14.3,0,32z"></path>
+    <path class="st5" d="M330.2,414.8c13.6-8.8,21.8-23.8,21.8-40V56l0,0c-8.8,0-16,7.2-16,16v304.5c0,8-4,15.6-10.7,20l-136,90.6   C181,492.6,176,502,176,512l0,0c3.1,0,6.1-0.9,8.7-2.6L330.2,414.8z"></path>
+  </g>
+  <g style="" transform="matrix(1.196224, 0, 0, 1.196224, 38.625668, -39.233322)">
+    <polygon class="st2" points="184,213.4 184,297.7 119,213.4  "></polygon>
+    <polygon class="st2" points="184,213.4 184,297.7 141.8,213.4  "></polygon>
+    <polygon class="st2" points="184,213.4 184,297.7 249,213.4  "></polygon>
+    <polygon class="st2" points="184,213.4 184,297.7 226.2,213.4  "></polygon>
+    <polygon class="st2" points="119,213.4 141.8,187 226.2,187 249,213.4  "></polygon>
+    <polygon class="st2" points="141.8,187 141.8,213.4 161.2,187  "></polygon>
+    <polygon class="st2" points="226.2,187 226.2,213.4 203.3,187  "></polygon>
+    <polygon class="st2" points="226.2,213.4 203.3,187 184,213.4  "></polygon>
+    <polygon class="st2" points="184,213.4 161.2,187 141.8,213.4  "></polygon>
+  </g>
+  <g style="" transform="matrix(1.225799, 0, 0, 1.225799, 47.244667, -47.412594)">
+    <polygon class="st6" points="168,205.1 168,289.4 103,205.1  "></polygon>
+    <polygon class="st81" points="168,205.1 168,289.4 125.8,205.1  "></polygon>
+    <polygon class="st7" points="168,205.1 168,289.4 233,205.1  "></polygon>
+    <polygon class="st81" points="168,205.1 168,289.4 210.2,205.1  "></polygon>
+    <polygon class="st9" points="103,205.1 125.8,178.8 210.2,178.8 233,205.1  "></polygon>
+    <polygon class="st10" points="125.8,178.8 125.8,205.1 145.2,178.8  "></polygon>
+    <polygon class="st8" points="210.2,178.8 210.2,205.1 187.3,178.8  "></polygon>
+    <polygon class="st10" points="210.2,205.1 187.3,178.8 168,205.1  "></polygon>
+    <polygon class="st8" points="168,205.1 145.2,178.8 125.8,205.1  "></polygon>
+  </g>
+</svg>
