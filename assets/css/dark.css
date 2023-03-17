@@ -129,8 +129,8 @@ screen and (min-resolution: 2dppx) {
 
 @font-face {
     font-family: 'icomoon';
-    src: url(../assets/fonts/v2/icomoon.eot?jt799);
-    src: url(../assets/fonts/v2/icomoon.eot?jt799#iefix) format("embedded-opentype"), url(../assets/fonts/v2/icomoon.ttf?jt799) format("truetype"), url(../assets/fonts/v2/icomoon.woff?jt799) format("woff"), url(../assets/fonts/v2/icomoon.svg?jt799#icomoon) format("svg");
+    src: url(../../assets/fonts/v2/icomoon.eot?jt799);
+    src: url(../../assets/fonts/v2/icomoon.eot?jt799#iefix) format("embedded-opentype"), url(../../assets/fonts/v2/icomoon.ttf?jt799) format("truetype"), url(../../assets/fonts/v2/icomoon.woff?jt799) format("woff"), url(../../assets/fonts/v2/icomoon.svg?jt799#icomoon) format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: block;
