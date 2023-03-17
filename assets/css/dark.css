@@ -129,8 +129,8 @@ screen and (min-resolution: 2dppx) {
 
 @font-face {
     font-family: 'icomoon';
-    src: url(/../assets/fonts/v2/icomoon.eot?jt799);
-    src: url(/../assets/fonts/v2/icomoon.eot?jt799#iefix) format("embedded-opentype"), url(/../assets/fonts/v2/icomoon.ttf?jt799) format("truetype"), url(/../assets/fonts/v2/icomoon.woff?jt799) format("woff"), url(/../assets/fonts/v2/icomoon.svg?jt799#icomoon) format("svg");
+    src: url(../assets/fonts/v2/icomoon.eot?jt799);
+    src: url(../assets/fonts/v2/icomoon.eot?jt799#iefix) format("embedded-opentype"), url(../assets/fonts/v2/icomoon.ttf?jt799) format("truetype"), url(../assets/fonts/v2/icomoon.woff?jt799) format("woff"), url(../assets/fonts/v2/icomoon.svg?jt799#icomoon) format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: block;
@@ -1265,7 +1265,7 @@ body.active {
 }
 
 .banner-bg_socials {
-    background: url('/../assets/images/socials_banner.png');
+    background: url('../assets/images/socials_banner.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
@@ -1325,7 +1325,7 @@ body.active {
 
 
 .banner-bg_tournament {
-    background: url('/../assets/images/tournament_banner.png');
+    background: url('../assets/images/tournament_banner.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
@@ -2686,51 +2686,51 @@ right:0; */
 }
 
 .mode-card_mines {
-    background-image: url('/../assets/images/new_games/mines.png');
+    background-image: url('../assets/images/new_games/mines.png');
 }
 
 .mode-card_tower {
-    background-image: url('/../assets/images/new_games/tower.png');
+    background-image: url('../assets/images/new_games/tower.png');
 }
 
 .mode-card_raffle {
-    background-image: url('/../assets/images/new_games/raffle.png');
+    background-image: url('../assets/images/new_games/raffle.png');
 }
 
 .mode-card_wheel {
-    background-image: url('/../assets/images/new_games/wheel.png');
+    background-image: url('../assets/images/new_games/wheel.png');
 }
 
 .mode-card_crash {
-    background-image: url('/../assets/images/new_games/crash.png');
+    background-image: url('../assets/images/new_games/crash.png');
 }
 
 .mode-card_double {
-    background-image: url('/../assets/images/new_games/double.png');
+    background-image: url('../assets/images/new_games/double.png');
 }
 
 .mode-card_overgo {
-    background-image: url('/../assets/images/new_games/overgo.png');
+    background-image: url('../assets/images/new_games/overgo.png');
 }
 
 .mode-card_slot {
-    background-image: url('/../assets/images/new_games/slot.png');
+    background-image: url('../assets/images/new_games/slot.png');
 }
 
 .mode-card_plinko {
-    background-image: url('/../assets/images/new_games/plinko.png');
+    background-image: url('../assets/images/new_games/plinko.png');
 }
 
 .mode-card_dice {
-    background-image: url('/../assets/images/new_games/dice.png');
+    background-image: url('../assets/images/new_games/dice.png');
 }
 
 .mode-card_jackpot {
-    background-image: url('/../assets/images/new_games/jackpot.png');
+    background-image: url('../assets/images/new_games/jackpot.png');
 }
 
 .mode-card_soon {
-    background-image: url('/../assets/images/new_games/soon.png');
+    background-image: url('../assets/images/new_games/soon.png');
 }
 
 .unselectable {
@@ -3406,7 +3406,7 @@ input {
     width: 70px;
     /* background-size: 70px; */
     height: 70px;
-    background: url(/../assets/images/logox.png);
+    background: url(../assets/images/logox.png);
     background-size: 67px;
     background-repeat: no-repeat;
     z-index: 2;
@@ -6665,7 +6665,7 @@ height:30px;
     left: -6px;
     transform: rotate(90deg);
     background-size: cover;
-    background-image: url(http://192.168.1.55/../assets/images/next.svg);
+    background-image: url(http://192.168.1.55../assets/images/next.svg);
 }
 .jackpot .roulette .pointer:after{
     content: '';
@@ -6676,7 +6676,7 @@ height:30px;
     left: -6px;
     transform: rotate(-90deg);
     background-size: cover;
-    background-image: url(http://192.168.1.55/../assets/images/next.svg);
+    background-image: url(http://192.168.1.55../assets/images/next.svg);
 } */
 .jackpot .roulette .fixed-width {
     width: 1882px;
@@ -13177,48 +13177,48 @@ pre[class*="language-"] {
 }
 
 .game-card_mines-bg {
-    background: url('/../assets/images/Mines1.png') no-repeat;
+    background: url('../assets/images/Mines1.png') no-repeat;
     background-size: cover;
 }
 
 .game-card_double-bg {
-    background: url('/../assets/images/Double1.png') no-repeat;
+    background: url('../assets/images/Double1.png') no-repeat;
     background-size: cover;
 }
 
 .game-card_crash-bg {
-    background: url('/../assets/images/Crash1.png') no-repeat;
+    background: url('../assets/images/Crash1.png') no-repeat;
     background-size: cover;
 }
 
 .game-card_dice-bg {
-    background: url('/../assets/images/Dice1.png') no-repeat;
+    background: url('../assets/images/Dice1.png') no-repeat;
     background-size: cover;
 }
 
 .game-card_jackpot-bg {
-    background: url('/../assets/images/Jackpot1.png') no-repeat;
+    background: url('../assets/images/Jackpot1.png') no-repeat;
     background-size: cover;
 }
 
 .game-card_raffle-bg {
-    background: url('/../assets/images/Raffle1.png') no-repeat;
+    background: url('../assets/images/Raffle1.png') no-repeat;
     background-size: cover;
 }
 
 .game-card_tower-bg {
-    background: url('/../assets/images/towerd.png') no-repeat;
+    background: url('../assets/images/towerd.png') no-repeat;
     background-size: cover;
 }
 
 .game-card_wheel-bg {
-    background: url('/../assets/images/wheelf.png') no-repeat;
+    background: url('../assets/images/wheelf.png') no-repeat;
     background-size: cover;
     /* background-position: center center; */
 }
 
 .game-card_overgo-bg {
-    background: url('/../assets/images/overgo.png') no-repeat;
+    background: url('../assets/images/overgo.png') no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -19733,42 +19733,42 @@ chat-smiles-box {
     }
 
     .game-card_mines-bg {
-        background: url('/../assets/images/Mines_m.png') no-repeat;
+        background: url('../assets/images/Mines_m.png') no-repeat;
         background-size: cover;
     }
 
     .game-card_double-bg {
-        background: url('/../assets/images/Double_m.png') no-repeat;
+        background: url('../assets/images/Double_m.png') no-repeat;
         background-size: cover;
     }
 
     .game-card_crash-bg {
-        background: url('/../assets/images/Crash_m.png') no-repeat;
+        background: url('../assets/images/Crash_m.png') no-repeat;
         background-size: cover;
     }
 
     .game-card_dice-bg {
-        background: url('/../assets/images/Dice_m.png') no-repeat;
+        background: url('../assets/images/Dice_m.png') no-repeat;
         background-size: cover;
     }
 
     .game-card_jackpot-bg {
-        background: url('/../assets/images/Jackpot_m.png') no-repeat;
+        background: url('../assets/images/Jackpot_m.png') no-repeat;
         background-size: cover;
     }
 
     .game-card_wheel-bg {
-        background: url('/../assets/images/wheelf.png') no-repeat;
+        background: url('../assets/images/wheelf.png') no-repeat;
         background-size: cover;
     }
 
     .game-card_tower-bg {
-        background: url('/../assets/images/towerd.png') no-repeat;
+        background: url('../assets/images/towerd.png') no-repeat;
         background-size: cover;
     }
 
     .game-card_raffle-bg {
-        background: url('/../assets/images/Raffle_m.png') no-repeat;
+        background: url('../assets/images/Raffle_m.png') no-repeat;
         background-size: cover;
     }
 
