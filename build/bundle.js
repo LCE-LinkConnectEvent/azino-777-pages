@@ -2858,7 +2858,7 @@ var app = (function () {
     			attr_dev(div0, "class", "howToJoinTitle svelte-9cqq76");
     			add_location(div0, file$j, 45, 4, 1014);
     			attr_dev(img, "class", img_class_value = "howToJoinImage " + `howToJoinImageStep${/*step*/ ctx[1]}` + " svelte-9cqq76");
-    			if (!src_url_equal(img.src, img_src_value = `/assets/images/${/*imageMapper*/ ctx[6][/*step*/ ctx[1]]}`)) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = `assets/images/${/*imageMapper*/ ctx[6][/*step*/ ctx[1]]}`)) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "image");
     			add_location(img, file$j, 51, 6, 1221);
 
@@ -2906,7 +2906,7 @@ var app = (function () {
     				attr_dev(img, "class", img_class_value);
     			}
 
-    			if (!current || dirty & /*step*/ 2 && !src_url_equal(img.src, img_src_value = `/assets/images/${/*imageMapper*/ ctx[6][/*step*/ ctx[1]]}`)) {
+    			if (!current || dirty & /*step*/ 2 && !src_url_equal(img.src, img_src_value = `assets/images/${/*imageMapper*/ ctx[6][/*step*/ ctx[1]]}`)) {
     				attr_dev(img, "src", img_src_value);
     			}
 
@@ -3292,7 +3292,7 @@ var app = (function () {
     			create_component(button.$$.fragment);
     			t4 = space();
     			create_component(howtojointournament.$$.fragment);
-    			if (!src_url_equal(img.src, img_src_value = "/assets/images/copy-dynamic-color.png")) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = "assets/images/copy-dynamic-color.png")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "info");
     			attr_dev(img, "class", "svelte-17dxdb0");
     			add_location(img, file$i, 23, 6, 655);
@@ -3534,13 +3534,13 @@ var app = (function () {
     			add_location(div0, file$h, 9, 4, 248);
     			attr_dev(div1, "class", "winAmountContent svelte-1evmo7c");
     			add_location(div1, file$h, 7, 2, 141);
-    			if (!src_url_equal(img0.src, img0_src_value = "/assets/images/coup.png")) attr_dev(img0, "src", img0_src_value);
+    			if (!src_url_equal(img0.src, img0_src_value = "assets/images/coup.png")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "");
     			attr_dev(img0, "class", "svelte-1evmo7c");
     			add_location(img0, file$h, 16, 4, 408);
     			attr_dev(div2, "class", "winAmountCoup winAmountCoupRight svelte-1evmo7c");
     			add_location(div2, file$h, 15, 2, 357);
-    			if (!src_url_equal(img1.src, img1_src_value = "/assets/images/coup.png")) attr_dev(img1, "src", img1_src_value);
+    			if (!src_url_equal(img1.src, img1_src_value = "assets/images/coup.png")) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "");
     			attr_dev(img1, "class", "svelte-1evmo7c");
     			add_location(img1, file$h, 19, 4, 514);
@@ -7152,7 +7152,7 @@ var app = (function () {
     			t7 = space();
     			span2 = element("span");
     			span2.textContent = "выигрыш";
-    			if (!src_url_equal(img0.src, img0_src_value = "/assets/images/database_yellow.svg")) attr_dev(img0, "src", img0_src_value);
+    			if (!src_url_equal(img0.src, img0_src_value = "assets/images/database_yellow.svg")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "bets amount");
     			attr_dev(img0, "class", "svelte-54gurg");
     			add_location(img0, file$2, 116, 12, 3264);
@@ -7162,7 +7162,7 @@ var app = (function () {
     			add_location(span0, file$2, 119, 10, 3401);
     			attr_dev(div1, "class", "tournamentWinnerPlatesBets svelte-54gurg");
     			add_location(div1, file$2, 114, 8, 3157);
-    			if (!src_url_equal(img1.src, img1_src_value = "/assets/images/coup.png")) attr_dev(img1, "src", img1_src_value);
+    			if (!src_url_equal(img1.src, img1_src_value = "assets/images/coup.png")) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "");
     			attr_dev(img1, "class", "svelte-54gurg");
     			add_location(img1, file$2, 126, 12, 3631);
